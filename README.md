@@ -85,7 +85,7 @@ To only generate the TestDoc report takes a fraction of the time.
 
 View maven site report in target/site/testdoc/ in a browser.
 
-![Screenshot](blob/master/screenshot.png)
+![Screenshot](https://github.com/thomasfl/testdoc4j/blob/master/screenshot.png)
 
 Installation
 ============
