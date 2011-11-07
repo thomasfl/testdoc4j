@@ -32,7 +32,7 @@ Add TestDoc annotations to your tests with to dthat describes in plain text what
     }
 ```
 
-[More examples](blob/master/src/main/java/no/uio/tools/testdoc/examples/AdvancedExample.java)
+[More examples](https://github.com/thomasfl/testdoc4j/blob/master/src/main/java/no/uio/tools/testdoc/examples/AdvancedExample.java)
 
 ## Step 3 ##
 
@@ -87,7 +87,7 @@ To only generate the TestDoc report takes a fraction of the time.
 
 View maven site report in target/site/testdoc/ in a browser.
 
-![Screenshot](./raw/master/screenshot.png)
+![Screenshot](https://github.com/thomasfl/testdoc4j/raw/master/screenshot.png)
 
 Installation
 ============
