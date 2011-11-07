@@ -1,7 +1,7 @@
 TestDoc
 =======
 
-TestDoc is a set of java annotations and a maven reporting plugin used to annotate tests. The generated report can be used to document what the tests does for non technical users, or be used by as test recipes for manual testers.
+TestDoc is a set of java annotations and a maven reporting plugin used to document acceptance tests. The generated report is intented for non technical users, and is suitable as test plans for manuel tests.
 
 
 Usage
